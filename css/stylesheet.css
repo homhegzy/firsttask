@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+span {
+    color: red;
+    font-style: italic;
+}
+header {
+    background-color: black;
+    background-image: url(../image/IMG_20211103_222536_519.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+    padding-top: 30px;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+
+}
